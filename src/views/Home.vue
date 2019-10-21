@@ -2,7 +2,7 @@
   <div class="">
     <div class="video-container ">
       <img class="animated fadeIn delay-2s" src="../assets/logo-white.png" alt="">
-      <video width="100%" class="" controls  autoplay loop poster="../assets/screenshot/app.gif">
+      <video width="100%" class="" controls  autoplay loop poster="../assets/videos/video.png">
         <source src="../assets/videos/video.mp4" type="video/mp4"  >
       </video>
     </div>
